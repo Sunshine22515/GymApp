@@ -1,0 +1,10 @@
+<?php
+declare(strict_types=1);
+
+// Copia este ficheiro para config.local.php e substitui pelos dados do teu MySQL.
+return [
+    'host' => '127.0.0.1',
+    'name' => 'gym_app',
+    'user' => 'root',
+    'password' => '',
+];

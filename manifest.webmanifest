@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "REP•LOG — Treinos",
+  "short_name": "REP•LOG",
+  "description": "Fichas de treino individuais para treinadores e alunos.",
+  "lang": "pt-PT",
+  "start_url": "./index.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101411",
+  "theme_color": "#101411",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
